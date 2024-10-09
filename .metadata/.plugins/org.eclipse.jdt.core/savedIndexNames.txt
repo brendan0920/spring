@@ -1,3 +1,2 @@
 INDEX VERSION 1.134+C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\.metadata\.plugins\org.eclipse.jdt.core
-10167620.index
 1865797976.index

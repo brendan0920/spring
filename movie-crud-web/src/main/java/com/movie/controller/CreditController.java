@@ -34,7 +34,7 @@ private static List<Credit> credits = new ArrayList<>();
 	public Credit add(@RequestBody Credit credit) {
 		
 		int maxId = 0;
-		for (Credit ac: credits) {
+		for (Credit c: credits) {
 			maxId = Math.max(maxId, c.getId());
 		} 
 		maxId += 1;
