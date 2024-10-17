@@ -23,16 +23,6 @@ public class Request {
 	private Date submittedDate;
 	private String reasonForRejection;
 	
-	 private String maxReqNbr;
-	 
-	 public String getMaxReqNbr() {
-        return maxReqNbr;
-    }
-
-    public void setMaxReqNbr(String maxReqNbr) {
-        this.maxReqNbr = maxReqNbr;
-    }
-	    
 	    
 	
 	public int getId() {

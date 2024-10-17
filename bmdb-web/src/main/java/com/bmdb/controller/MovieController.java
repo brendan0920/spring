@@ -8,6 +8,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
+import com.bmdb.model.Credit;
 import com.bmdb.model.Movie;
 import com.bmdb.db.MovieRepo;
 
@@ -85,16 +86,31 @@ public class MovieController {
 		}
 	}
 	
+	// new requirement: : return movies by rating = R, and year = 2024
+	// SELECT *	FROM Movie , WHERE Rating = 'R', AND Year = 2024;
+	@GetMapping("/movie-rating-year/{rating}/{year}")
+	public List<Movie> getMoviesForRatingYear(@PathVariable String rating, @PathVariable int year) {
+		return movieRepo.findByRatingAndYear(rating, year);
+		
+	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	// new requirement: : return movies by rating = PG, and year >= 1999
+	// SELECT *	FROM Movie , WHERE Rating = 'PG', AND Year >= 1999;
+	@GetMapping("/movie-rating-year-greater/{rating}/{year}")
+	public List<Movie> getMoviesForRatingYearGreater(@PathVariable String rating, @PathVariable int year) {
+		
+		return movieRepo.findByRatingAndYearGreaterThanEqual(rating, year);
+		
+	}
 
+	
+	// new requirement: : return movies by rating != R
+	// SELECT *	FROM Movie , WHERE Rating != 'R'
+	@GetMapping("/movie-rating-notlike/{rating}")
+	public List<Movie> getMoviesForRatingNotLike(@PathVariable String rating) {
+		
+		return movieRepo.findByRatingNotLike(rating);
+		
+	}
 	
 }

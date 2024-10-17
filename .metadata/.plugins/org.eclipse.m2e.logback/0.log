@@ -1110,3 +1110,362 @@
 2024-10-08 23:22:57,227 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-08 23:22:57,233 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-08 23:22:57,237 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 09:33:22,496 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 09:33:22,618 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 09:33:22,624 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 09:33:39,170 [Worker-197: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bmdb:bmdb-web:v01 @ C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\pom.xml.
+2024-10-09 11:01:53,882 [Worker-216: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 11:01:54,047 [Worker-216: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 11:01:54,056 [Worker-216: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 11:25:38,494 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 11:25:38,553 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 11:25:38,557 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 11:28:15,590 [Worker-218: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 11:28:15,615 [Worker-218: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 11:28:15,644 [Worker-218: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 12:04:30,113 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 12:04:30,148 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 12:04:30,153 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 12:07:48,342 [Worker-232: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 12:07:48,348 [Worker-232: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 12:07:48,352 [Worker-232: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 12:08:01,155 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 12:08:01,164 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 12:08:01,170 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 12:11:24,985 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 12:11:25,013 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 12:11:25,018 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 12:12:15,268 [Worker-234: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 12:12:15,273 [Worker-234: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 12:12:15,278 [Worker-234: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 12:15:58,518 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 12:15:58,531 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 12:15:58,538 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 12:16:35,558 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 12:16:35,563 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 12:16:35,568 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 12:16:59,234 [Worker-238: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 12:16:59,245 [Worker-238: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 12:16:59,252 [Worker-238: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 12:21:12,628 [Worker-237: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 12:21:12,637 [Worker-237: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 12:21:12,642 [Worker-237: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 12:22:29,234 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 12:22:29,243 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 12:22:29,247 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 13:43:41,768 [Worker-243: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 13:43:41,794 [Worker-243: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 13:43:41,800 [Worker-243: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 13:44:34,090 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 13:44:34,097 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 13:44:34,102 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 13:45:58,450 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 13:45:58,460 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 13:45:58,464 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 13:58:26,940 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 13:58:26,953 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 13:58:26,957 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 13:58:51,631 [Worker-254: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 13:58:51,636 [Worker-254: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 13:58:51,640 [Worker-254: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 14:01:31,522 [Worker-258: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 14:01:31,530 [Worker-258: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 14:01:31,534 [Worker-258: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 14:11:27,406 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 14:11:27,418 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 14:11:27,423 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 14:11:48,433 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 14:11:48,441 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 14:11:48,445 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 14:16:23,207 [Worker-265: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 14:16:23,212 [Worker-265: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 14:16:23,215 [Worker-265: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 14:17:11,507 [Worker-269: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 14:17:11,515 [Worker-269: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 14:17:11,521 [Worker-269: Launching bmdb-web - BmdbWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 14:26:28,496 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 14:26:28,505 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 14:26:28,509 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-09 14:44:30,831 [Worker-281: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prs:prs-web:v01 @ C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\pom.xml.
+2024-10-09 15:26:35,269 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 15:26:35,368 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 15:26:35,389 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 15:42:41,647 [Worker-294: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 15:42:41,685 [Worker-294: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 15:42:41,690 [Worker-294: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 15:44:39,133 [Worker-295: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 15:44:39,141 [Worker-295: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 15:44:39,145 [Worker-295: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 15:45:30,971 [Worker-301: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 15:45:30,977 [Worker-301: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 15:45:30,981 [Worker-301: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 15:46:54,623 [Worker-295: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 15:46:54,628 [Worker-295: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 15:46:54,632 [Worker-295: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 15:50:00,217 [Worker-300: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 15:50:00,223 [Worker-300: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 15:50:00,227 [Worker-300: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 15:51:50,340 [Worker-297: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 15:51:50,351 [Worker-297: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 15:51:50,355 [Worker-297: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 16:03:24,983 [Worker-300: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 16:03:24,993 [Worker-300: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 16:03:24,997 [Worker-300: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 16:07:07,292 [Worker-310: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 16:07:07,303 [Worker-310: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 16:07:07,306 [Worker-310: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 16:11:30,852 [Worker-307: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 16:11:30,860 [Worker-307: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 16:11:30,865 [Worker-307: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 16:47:45,091 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 16:47:45,114 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 16:47:45,119 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 16:56:21,604 [Worker-324: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bmdb:bmdb-web:v01 @ C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\pom.xml.
+2024-10-09 17:47:20,103 [Worker-340: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 17:47:20,170 [Worker-340: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 17:47:20,175 [Worker-340: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 17:52:57,394 [Worker-342: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 17:52:57,403 [Worker-342: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 17:52:57,408 [Worker-342: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 17:59:14,775 [Worker-349: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 17:59:14,784 [Worker-349: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 17:59:14,788 [Worker-349: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:07:23,676 [Worker-348: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:07:23,691 [Worker-348: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:07:23,695 [Worker-348: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:15:52,699 [Worker-355: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:15:52,708 [Worker-355: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:15:52,712 [Worker-355: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:19:15,538 [Worker-361: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:19:15,547 [Worker-361: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:19:15,551 [Worker-361: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:23:15,901 [Worker-365: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:23:15,909 [Worker-365: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:23:15,912 [Worker-365: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:24:28,790 [Worker-366: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:24:28,820 [Worker-366: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:24:28,825 [Worker-366: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:28:54,568 [Worker-366: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:28:54,580 [Worker-366: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:28:54,589 [Worker-366: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:32:53,632 [Worker-361: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:32:53,640 [Worker-361: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:32:53,644 [Worker-361: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:33:48,990 [Worker-362: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:33:49,005 [Worker-362: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:33:49,008 [Worker-362: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:44:59,105 [Worker-375: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:44:59,121 [Worker-375: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:44:59,127 [Worker-375: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:46:47,187 [Worker-380: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:46:47,194 [Worker-380: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:46:47,198 [Worker-380: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:48:49,393 [Worker-381: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:48:49,449 [Worker-381: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:48:49,455 [Worker-381: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:50:39,404 [Worker-378: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:50:39,410 [Worker-378: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:50:39,414 [Worker-378: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 18:51:15,797 [Worker-372: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:15,803 [Worker-372: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 18:51:15,806 [Worker-372: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:04:45,278 [Worker-386: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:04:45,287 [Worker-386: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:04:45,294 [Worker-386: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:05:28,314 [Worker-389: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:05:28,322 [Worker-389: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:05:28,325 [Worker-389: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:17:50,779 [Worker-389: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:17:50,787 [Worker-389: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:17:50,790 [Worker-389: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:18:43,817 [Worker-391: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:18:43,824 [Worker-391: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:18:43,833 [Worker-391: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:20:00,787 [Worker-389: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:20:00,795 [Worker-389: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:20:00,800 [Worker-389: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:20:18,354 [Worker-392: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:20:18,363 [Worker-392: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:20:18,366 [Worker-392: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:40:30,268 [Worker-403: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:40:30,299 [Worker-403: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:40:30,306 [Worker-403: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:51:11,611 [Worker-405: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:51:11,620 [Worker-405: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:51:11,624 [Worker-405: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:51:50,811 [Worker-412: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:51:50,831 [Worker-412: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:51:50,836 [Worker-412: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:52:19,024 [Worker-411: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:52:19,029 [Worker-411: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:52:19,033 [Worker-411: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:57:30,706 [Worker-410: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:57:30,741 [Worker-410: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:57:30,745 [Worker-410: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-09 19:59:22,948 [Worker-410: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:59:22,956 [Worker-410: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 19:59:22,960 [Worker-410: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 09:05:05,739 [Worker-435: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 09:05:05,795 [Worker-435: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 09:05:05,799 [Worker-435: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 10:18:26,277 [Worker-451: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 10:18:26,312 [Worker-451: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 10:18:26,315 [Worker-451: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 10:45:15,722 [Worker-453: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 10:45:15,737 [Worker-453: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 10:45:15,740 [Worker-453: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 10:45:36,422 [Worker-459: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 10:45:36,433 [Worker-459: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 10:45:36,438 [Worker-459: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 10:47:32,241 [Worker-461: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 10:47:32,250 [Worker-461: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 10:47:32,255 [Worker-461: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 11:04:48,183 [Worker-463: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 11:04:48,205 [Worker-463: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 11:04:48,208 [Worker-463: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 11:04:58,124 [Worker-464: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 11:04:58,151 [Worker-464: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 11:04:58,154 [Worker-464: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 12:35:47,036 [Worker-479: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 12:35:47,082 [Worker-479: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 12:35:47,087 [Worker-479: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 14:47:11,295 [Worker-484: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:47:11,372 [Worker-484: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 14:47:11,378 [Worker-484: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 14:56:43,110 [Worker-489: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:56:43,120 [Worker-489: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 14:56:43,124 [Worker-489: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 14:59:39,173 [Worker-497: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:59:39,190 [Worker-497: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 14:59:39,195 [Worker-497: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 15:18:52,270 [Worker-511: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 15:18:52,284 [Worker-511: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 15:18:52,288 [Worker-511: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 15:22:15,357 [Worker-514: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 15:22:15,364 [Worker-514: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 15:22:15,369 [Worker-514: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 15:23:44,652 [Worker-514: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 15:23:44,658 [Worker-514: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 15:23:44,662 [Worker-514: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 15:30:08,180 [Worker-522: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 15:30:08,190 [Worker-522: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 15:30:08,193 [Worker-522: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 15:30:27,818 [Worker-518: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 15:30:27,830 [Worker-518: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 15:30:27,834 [Worker-518: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 15:30:42,679 [Worker-515: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 15:30:42,684 [Worker-515: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 15:30:42,689 [Worker-515: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 15:30:54,112 [Worker-515: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 15:30:54,117 [Worker-515: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 15:30:54,121 [Worker-515: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 15:32:29,216 [Worker-520: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 15:32:29,221 [Worker-520: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 15:32:29,225 [Worker-520: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 15:37:45,637 [Worker-515: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 15:37:45,666 [Worker-515: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 15:37:45,669 [Worker-515: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 15:59:25,004 [Worker-533: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bmdb:bmdb-web:v01 @ C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\pom.xml.
+2024-10-10 16:24:59,145 [Worker-533: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 16:24:59,180 [Worker-533: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 16:24:59,184 [Worker-533: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 16:25:37,042 [Worker-536: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 16:25:37,071 [Worker-536: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 16:25:37,075 [Worker-536: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 16:29:45,237 [Worker-542: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 16:29:45,245 [Worker-542: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 16:29:45,251 [Worker-542: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 16:38:45,131 [Worker-547: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 16:38:45,140 [Worker-547: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 16:38:45,143 [Worker-547: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 16:39:01,983 [Worker-547: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 16:39:01,988 [Worker-547: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 16:39:02,000 [Worker-547: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 18:18:41,375 [Worker-550: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:18:41,397 [Worker-550: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:18:41,401 [Worker-550: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 18:31:30,019 [Worker-557: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:31:30,046 [Worker-557: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:31:30,051 [Worker-557: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 18:35:42,552 [Worker-558: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:35:42,590 [Worker-558: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:35:42,595 [Worker-558: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 18:35:47,411 [Worker-560: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:35:47,421 [Worker-560: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:35:47,426 [Worker-560: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 18:38:42,142 [Worker-561: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:38:42,148 [Worker-561: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:38:42,152 [Worker-561: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 18:56:22,253 [Worker-574: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:56:22,296 [Worker-574: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:56:22,300 [Worker-574: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 19:06:13,836 [Worker-582: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:06:13,846 [Worker-582: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:06:13,850 [Worker-582: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 19:11:19,622 [Worker-587: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:11:19,629 [Worker-587: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:11:19,632 [Worker-587: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 19:40:36,104 [Worker-600: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:40:36,123 [Worker-600: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:40:36,129 [Worker-600: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 19:41:11,268 [Worker-604: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:41:11,280 [Worker-604: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:41:11,284 [Worker-604: Launching prs-web - PrsWebApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 19:41:49,040 [Worker-595: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:41:49,047 [Worker-595: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:41:49,071 [Worker-595: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 19:43:23,435 [Worker-601: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:43:23,440 [Worker-601: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:43:23,443 [Worker-601: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-10 20:08:11,963 [Worker-603: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 20:08:11,983 [Worker-603: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 20:08:11,987 [Worker-603: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-11 09:09:08,667 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-11 09:16:32,979 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 09:16:33,123 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 09:16:33,136 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-11 09:44:19,982 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 09:44:19,992 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 09:44:19,997 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-11 10:36:18,669 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 10:36:18,816 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 10:36:18,829 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-11 14:32:48,604 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 14:32:48,688 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 14:32:48,694 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-11 14:38:41,478 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 14:38:41,534 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 14:38:41,540 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-12 14:44:44,657 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-13 15:45:17,166 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-13 15:47:12,496 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.movie-ratings:proj-16-01-movie-ratings-web:v01 @ C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\proj-16-01-movie-ratings-web\pom.xml.
+2024-10-13 15:47:16,583 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proj-16-01-movie-ratings-web/src/main/java
+2024-10-13 15:47:16,586 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proj-16-01-movie-ratings-web/src/main/resources
+2024-10-13 15:47:16,596 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proj-16-01-movie-ratings-web/src/main/resources
+2024-10-13 15:47:16,609 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proj-16-01-movie-ratings-web/src/test/java
+2024-10-13 15:47:16,611 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proj-16-01-movie-ratings-web/src/test/resources
+2024-10-13 15:47:17,031 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2024-10-13 15:47:17,037 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-13 15:47:17,944 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.movie-ratings:proj-16-01-movie-ratings-web:v01 @ C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\proj-16-01-movie-ratings-web\pom.xml.
+2024-10-13 15:47:18,688 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proj-16-01-movie-ratings-web/src/main/java
+2024-10-13 15:47:18,689 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proj-16-01-movie-ratings-web/src/main/resources
+2024-10-13 15:47:18,690 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proj-16-01-movie-ratings-web/src/main/resources
+2024-10-13 15:47:18,691 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proj-16-01-movie-ratings-web/src/test/java
+2024-10-13 15:47:18,693 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proj-16-01-movie-ratings-web/src/test/resources
+2024-10-13 15:47:19,381 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-10-13 15:47:24,134 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 15:47:24,171 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 15:47:24,180 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\bmdb-web\src\test\resources
+2024-10-13 15:47:25,105 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 15:47:25,124 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 15:47:25,133 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\proj-16-01-movie-ratings-web\src\test\resources
+2024-10-13 15:47:27,145 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 15:47:27,176 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 15:47:27,182 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\src\test\resources
+2024-10-13 15:48:34,522 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 15:48:34,525 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 15:48:34,530 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-15 19:04:05,762 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-15 19:04:41,955 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.movie:day-2-spring-project-setup-review:v01 @ C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\day-2-spring-project-setup-review\pom.xml.
+2024-10-15 19:04:50,052 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prs:prs-web:v01 @ C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\prs-web\pom.xml.
+2024-10-15 19:04:51,801 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.movie:day-2-spring-project-setup-review:v01 @ C:\Users\max-student\Documents\BrendanBootcampFolder\repos\spring\day-2-spring-project-setup-review\pom.xml.

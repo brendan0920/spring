@@ -10,6 +10,7 @@ import org.springframework.web.server.ResponseStatusException;
 
 import com.prs.db.UserRepo;
 import com.prs.model.User;
+import com.prs.model.UserLogin;
 
 @RestController
 @RequestMapping("/api/users")
@@ -83,4 +84,19 @@ public class UserController {
 					HttpStatus.NOT_FOUND, "User not found for id: " + id);
 		}
 	}
+	
+	@PostMapping("/login")
+	@ResponseStatus(HttpStatus.NO_CONTENT)
+	public User login (@RequestBody UserLogin userLogin) {
+		User user = userRepo.findByUsername(userLogin.getUsername())
+	            .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "User ID not found"));
+						
+		if (!userLogin.getUsername().equals(user.getUsername()) || !userLogin.getPassword().equals(user.getPassword())) {
+			throw new ResponseStatusException(
+					HttpStatus.NOT_FOUND, "User id and password not found");	
+		} 
+		
+		return user;
+	}
+	
 }

@@ -1,10 +1,14 @@
 package com.bmdb.db;
 
+import java.util.List;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.bmdb.model.Movie;
 
 public interface MovieRepo extends JpaRepository<Movie, Integer> {
 	
-
+	List<Movie> findByRatingAndYear(String rating, int year);
+	List<Movie> findByRatingAndYearGreaterThanEqual(String rating, int year);
+	List<Movie> findByRatingNotLike(String rating);
 }
